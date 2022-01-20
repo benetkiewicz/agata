@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(209, 6, 6);
+}
+
+p {
+    color: rgb(15, 13, 13);
+}
+
+#moje {
+color: blueviolet;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#musk {
+    color: aquamarine;
+}
